@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layout>
+	<Files>
+		<File Name="main.c" Top="No" Tabpos="1" TopLine="1">
+			<Cursor Line="11" Column="2"/>
+		</File>
+		<File Name="prototipos.h" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="18" Column="56"/>
+		</File>
+		<File Name="funçao do menu.c" Top="Yes" Tabpos="3" TopLine="49">
+			<Cursor Line="16" Column="2"/>
+		</File>
+		<File Name="funçao de compra.c" Top="No" Tabpos="4" TopLine="1">
+			<Cursor Line="9" Column="58"/>
+		</File>
+		<File Name="funçao de venda.c" Top="No" Tabpos="5" TopLine="1">
+			<Cursor Line="8" Column="58"/>
+		</File>
+		<File Name="funçao de leitura.c" Top="No" Tabpos="6" TopLine="1">
+			<Cursor Line="9" Column="9"/>
+		</File>
+	</Files>
+</Layout>
